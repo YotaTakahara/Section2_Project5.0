@@ -2884,3 +2884,893 @@ Recommended: 511.79
 [2022.07.04-05.56.40:658][802]LogFileHelpers: Saving map 'test' took 0.100
 [2022.07.04-05.56.40:674][802]AssetCheck: New page: Asset Save: test
 [2022.07.04-05.56.40:674][802]LogContentValidation: Display: Validating World /Game/Levels/test.test
+[2022.07.04-06.06.40:780][651]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.07.04-06.06.40:781][651]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/test' took 0.050
+[2022.07.04-06.06.40:782][651]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Spkrs/BP/SpeakerBP] ([2] browsable assets)...
+[2022.07.04-06.06.40:815][651]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Spkrs/BP/SpeakerBP.SpeakerBP]
+[2022.07.04-06.06.40:815][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/Spkrs/BP/SpeakerBP]
+[2022.07.04-06.06.40:828][651]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Spkrs/BP/SpeakerBP_Auto1
+[2022.07.04-06.06.40:828][651]LogSavePackage: Moving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/SpeakerBP_Auto1ECA517E645D86ADEAD63D88013ABF609.tmp' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Spkrs/BP/SpeakerBP_Auto1.uasset'
+[2022.07.04-06.06.40:829][651]LogFileHelpers: Auto-saving content packages took 0.048
+[2022.07.04-06.17.00:372][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.07.04-06.17.00:395][ 80]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/test_Auto2
+[2022.07.04-06.17.00:395][ 80]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2CED3209647A23E071562438592AA5780.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-06.17.00:897][ 80]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2CED3209647A23E071562438592AA5780.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-06.17.01:398][ 80]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2CED3209647A23E071562438592AA5780.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-06.17.01:898][ 80]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2CED3209647A23E071562438592AA5780.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-06.17.02:399][ 80]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2CED3209647A23E071562438592AA5780.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-06.17.02:900][ 80]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2CED3209647A23E071562438592AA5780.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-06.17.03:402][ 80]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2CED3209647A23E071562438592AA5780.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-06.17.03:903][ 80]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2CED3209647A23E071562438592AA5780.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-06.17.04:404][ 80]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2CED3209647A23E071562438592AA5780.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-06.17.04:904][ 80]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2CED3209647A23E071562438592AA5780.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-06.17.05:405][ 80]LogFileManager: Error: Error moving file '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2CED3209647A23E071562438592AA5780.tmp'.
+[2022.07.04-06.17.05:405][ 80]LogSavePackage: Warning: Failed to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to temp directory
+[2022.07.04-06.17.05:405][ 80]LogSavePackage: Error: Error saving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap'
+[2022.07.04-06.17.05:409][ 80]EditorErrors: New page: Save Output
+[2022.07.04-06.17.05:409][ 80]EditorErrors: Warning: Error saving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap'
+[2022.07.04-06.17.05:484][ 80]LogFileHelpers: Editor autosave (incl. sublevels) failed for file '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' which belongs to world '/Game/Levels/test'. Aborting autosave.
+[2022.07.04-06.17.05:486][ 80]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Spkrs/BP/SpeakerBP] ([2] browsable assets)...
+[2022.07.04-06.17.05:516][ 80]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Spkrs/BP/SpeakerBP.SpeakerBP]
+[2022.07.04-06.17.05:516][ 80]OBJ SavePackage: Finished generating thumbnails for package [/Game/Spkrs/BP/SpeakerBP]
+[2022.07.04-06.17.05:542][ 80]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Spkrs/BP/SpeakerBP_Auto2
+[2022.07.04-06.17.05:543][ 80]LogSavePackage: Moving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/SpeakerBP_Auto24793878F422E5693ABEF04B06463B341.tmp' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Spkrs/BP/SpeakerBP_Auto2.uasset'
+[2022.07.04-06.17.05:545][ 80]LogFileHelpers: Auto-saving content packages took 0.060
+[2022.07.04-06.17.09:836][287]LogSlate: Window 'Message Log' being destroyed
+[2022.07.04-06.17.09:842][287]LogSlate: Window 'Message Log' being destroyed
+[2022.07.04-06.22.59:343][578]BlueprintLog: New page: Compile SpeakerBP
+[2022.07.04-06.22.59:468][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.07.04-06.23.00:960][644]LogSavePackage: Moving output files for package: /Game/Spkrs/BP/SpeakerBP
+[2022.07.04-06.23.00:962][644]LogSavePackage: Moving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/SpeakerBPB2DC83A8428C60A2F8201788D64FC157.tmp' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Content/Spkrs/BP/SpeakerBP.uasset'
+[2022.07.04-06.23.00:979][644]AssetCheck: New page: Asset Save: SpeakerBP
+[2022.07.04-06.23.00:979][644]LogContentValidation: Display: Validating Blueprint /Game/Spkrs/BP/SpeakerBP.SpeakerBP
+[2022.07.04-06.23.04:984][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.07.04-06.23.05:004][853]LogSavePackage: Moving output files for package: /Game/Levels/test
+[2022.07.04-06.23.05:005][853]LogSavePackage: Moving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test0193393542B38E09106F1A891F7E58FB.tmp' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Content/Levels/test.umap'
+[2022.07.04-06.23.05:015][853]LogFileHelpers: No new changes to save!
+[2022.07.04-06.23.05:015][853]LogFileHelpers: Saving map 'test' took 0.075
+[2022.07.04-06.23.05:026][853]AssetCheck: New page: Asset Save: test
+[2022.07.04-06.23.05:026][853]LogContentValidation: Display: Validating World /Game/Levels/test.test
+[2022.07.04-06.26.07:501][ 23]LogDerivedDataCache: C:/Users/YoutaTakahara/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.404 and deleted 0 file(s) with total size 0 MiB.
+[2022.07.04-06.26.46:152][408]LogSlate: Window 'Color Picker' being destroyed
+[2022.07.04-06.26.58:230][231]LogSlate: Window 'Color Picker' being destroyed
+[2022.07.04-06.27.25:314][247]BlueprintLog: New page: Compile SpeakerBP
+[2022.07.04-06.27.25:572][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.07.04-06.27.26:407][280]LogSavePackage: Moving output files for package: /Game/Spkrs/BP/SpeakerBP
+[2022.07.04-06.27.26:408][280]LogSavePackage: Moving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/SpeakerBP17344C714E6E5A26809418B031DCF899.tmp' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Content/Spkrs/BP/SpeakerBP.uasset'
+[2022.07.04-06.27.26:427][280]AssetCheck: New page: Asset Save: SpeakerBP
+[2022.07.04-06.27.26:427][280]LogContentValidation: Display: Validating Blueprint /Game/Spkrs/BP/SpeakerBP.SpeakerBP
+[2022.07.04-06.28.45:894][381]LogViewport: Scene viewport resized to 911x606, mode Windowed.
+[2022.07.04-06.28.45:942][382]LogViewport: Scene viewport resized to 888x606, mode Windowed.
+[2022.07.04-06.28.45:982][383]LogViewport: Scene viewport resized to 875x606, mode Windowed.
+[2022.07.04-06.28.46:021][384]LogViewport: Scene viewport resized to 854x606, mode Windowed.
+[2022.07.04-06.28.46:058][385]LogViewport: Scene viewport resized to 813x606, mode Windowed.
+[2022.07.04-06.28.46:093][386]LogViewport: Scene viewport resized to 793x606, mode Windowed.
+[2022.07.04-06.28.46:156][387]LogViewport: Scene viewport resized to 745x606, mode Windowed.
+[2022.07.04-06.29.48:575][202]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.04-06.29.48:581][202]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.04-06.29.48:581][202]PIE: New page: PIE session: test (2022/07/05 0:29:48)
+[2022.07.04-06.29.48:582][202]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_test
+[2022.07.04-06.29.48:588][202]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006099s)
+[2022.07.04-06.29.48:588][202]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/test.test to /Game/Levels/UEDPIE_0_test.test (0.006221s)
+[2022.07.04-06.29.48:588][202]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.04-06.29.48:588][202]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.04-06.29.48:589][202]LogAIModule: Creating AISystem for world test
+[2022.07.04-06.29.48:589][202]LogPlayLevel: PIE: World Init took: (0.001423s)
+[2022.07.04-06.29.48:634][202]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.07.04-06.29.48:636][202]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.07.04-06.29.48:637][202]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.04-06.29.48:637][202]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.04-06.29.48:637][202]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.04-06.29.48:637][202]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.04-06.29.48:637][202]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.04-06.29.48:637][202]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.04-06.29.48:637][202]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.04-06.29.48:637][202]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.04-06.29.48:637][202]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.04-06.29.48:637][202]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.04-06.29.48:637][202]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.04-06.29.48:639][202]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.04-06.29.48:670][202]LogAudioMixer: Display: Using Audio Hardware Device スピーカー (2- Realtek High Definition Audio)
+[2022.07.04-06.29.48:671][202]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.04-06.29.48:671][202]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.04-06.29.48:671][202]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.04-06.29.48:672][202]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2022.07.04-06.29.48:672][202]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2022.07.04-06.29.48:674][202]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2022.07.04-06.29.48:674][202]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2022.07.04-06.29.48:674][202]LogInit: FAudioDevice initialized.
+[2022.07.04-06.29.48:674][202]LogAudio: Display: Audio Device (ID: 18) registered with world 'test'.
+[2022.07.04-06.29.48:685][202]LogLoad: Game class is 'GM_Configurator_C'
+[2022.07.04-06.29.48:687][202]LogWorld: Bringing World /Game/Levels/UEDPIE_0_test.test up for play (max tick rate 0) at 2022.07.04-15.29.48
+[2022.07.04-06.29.48:687][202]LogWorld: Bringing up level for play took: 0.002643
+[2022.07.04-06.29.48:690][202]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2022.07.04-06.29.48:691][202]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.07.04-06.29.48:691][202]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.07.04-06.29.48:691][202]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.07.04-06.29.48:693][202]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.07.04-06.29.48:693][202]PIE: Server logged in
+[2022.07.04-06.29.48:693][202]PIE: Play in editor total start time 0.113 seconds.
+[2022.07.04-06.29.50:910][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.04-06.29.50:910][456]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_test
+[2022.07.04-06.29.50:910][456]LogWorld: UWorld::CleanupWorld for test, bSessionEnded=true, bCleanupResources=true
+[2022.07.04-06.29.50:911][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.04-06.29.50:927][456]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.04-06.29.50:931][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.04-06.29.50:971][456]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.04-06.29.50:972][456]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2022.07.04-06.29.50:973][456]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2022.07.04-06.29.50:977][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.04-06.29.50:979][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.07.04-06.29.51:004][457]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2022.07.04-06.29.55:089][769]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.04-06.29.55:095][769]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.04-06.29.55:095][769]PIE: New page: PIE session: test (2022/07/05 0:29:55)
+[2022.07.04-06.29.55:095][769]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_test
+[2022.07.04-06.29.55:100][769]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005041s)
+[2022.07.04-06.29.55:100][769]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/test.test to /Game/Levels/UEDPIE_0_test.test (0.005117s)
+[2022.07.04-06.29.55:100][769]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.04-06.29.55:100][769]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.04-06.29.55:101][769]LogAIModule: Creating AISystem for world test
+[2022.07.04-06.29.55:101][769]LogPlayLevel: PIE: World Init took: (0.000724s)
+[2022.07.04-06.29.55:141][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.07.04-06.29.55:143][769]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2022.07.04-06.29.55:143][769]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.04-06.29.55:143][769]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.04-06.29.55:143][769]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.04-06.29.55:143][769]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.04-06.29.55:143][769]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.04-06.29.55:143][769]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.04-06.29.55:143][769]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.04-06.29.55:143][769]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.04-06.29.55:144][769]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.04-06.29.55:144][769]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.04-06.29.55:144][769]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.04-06.29.55:146][769]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.04-06.29.55:173][769]LogAudioMixer: Display: Using Audio Hardware Device スピーカー (2- Realtek High Definition Audio)
+[2022.07.04-06.29.55:174][769]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.04-06.29.55:174][769]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.04-06.29.55:174][769]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.04-06.29.55:175][769]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2022.07.04-06.29.55:175][769]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2022.07.04-06.29.55:176][769]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2022.07.04-06.29.55:176][769]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2022.07.04-06.29.55:176][769]LogInit: FAudioDevice initialized.
+[2022.07.04-06.29.55:176][769]LogAudio: Display: Audio Device (ID: 19) registered with world 'test'.
+[2022.07.04-06.29.55:189][769]LogLoad: Game class is 'GM_Configurator_C'
+[2022.07.04-06.29.55:191][769]LogWorld: Bringing World /Game/Levels/UEDPIE_0_test.test up for play (max tick rate 0) at 2022.07.04-15.29.55
+[2022.07.04-06.29.55:191][769]LogWorld: Bringing up level for play took: 0.002618
+[2022.07.04-06.29.55:193][769]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2022.07.04-06.29.55:194][769]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.07.04-06.29.55:194][769]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.07.04-06.29.55:194][769]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.07.04-06.29.55:194][769]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.07.04-06.29.55:194][769]PIE: Server logged in
+[2022.07.04-06.29.55:195][769]PIE: Play in editor total start time 0.1 seconds.
+[2022.07.04-06.30.00:550][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.04-06.30.00:550][400]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_test
+[2022.07.04-06.30.00:550][400]LogWorld: UWorld::CleanupWorld for test, bSessionEnded=true, bCleanupResources=true
+[2022.07.04-06.30.00:550][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.04-06.30.00:561][400]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.04-06.30.00:566][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.04-06.30.00:605][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.04-06.30.00:605][400]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2022.07.04-06.30.00:607][400]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2022.07.04-06.30.00:613][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.07.04-06.30.00:637][401]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2022.07.04-06.30.36:015][198]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.04-06.30.36:021][198]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.04-06.30.36:021][198]PIE: New page: PIE session: test (2022/07/05 0:30:36)
+[2022.07.04-06.30.36:021][198]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_test
+[2022.07.04-06.30.36:026][198]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005498s)
+[2022.07.04-06.30.36:026][198]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/test.test to /Game/Levels/UEDPIE_0_test.test (0.005579s)
+[2022.07.04-06.30.36:026][198]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.04-06.30.36:026][198]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.04-06.30.36:027][198]LogAIModule: Creating AISystem for world test
+[2022.07.04-06.30.36:027][198]LogPlayLevel: PIE: World Init took: (0.000695s)
+[2022.07.04-06.30.36:067][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.07.04-06.30.36:069][198]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2022.07.04-06.30.36:069][198]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.04-06.30.36:069][198]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.04-06.30.36:069][198]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.04-06.30.36:069][198]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.04-06.30.36:069][198]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.04-06.30.36:069][198]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.04-06.30.36:069][198]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.04-06.30.36:069][198]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.04-06.30.36:070][198]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.04-06.30.36:070][198]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.04-06.30.36:070][198]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.04-06.30.36:071][198]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.04-06.30.36:100][198]LogAudioMixer: Display: Using Audio Hardware Device スピーカー (2- Realtek High Definition Audio)
+[2022.07.04-06.30.36:100][198]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.04-06.30.36:100][198]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.04-06.30.36:100][198]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.04-06.30.36:101][198]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2022.07.04-06.30.36:101][198]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2022.07.04-06.30.36:103][198]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2022.07.04-06.30.36:103][198]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2022.07.04-06.30.36:103][198]LogInit: FAudioDevice initialized.
+[2022.07.04-06.30.36:103][198]LogAudio: Display: Audio Device (ID: 20) registered with world 'test'.
+[2022.07.04-06.30.36:113][198]LogLoad: Game class is 'GM_Configurator_C'
+[2022.07.04-06.30.36:115][198]LogWorld: Bringing World /Game/Levels/UEDPIE_0_test.test up for play (max tick rate 0) at 2022.07.04-15.30.36
+[2022.07.04-06.30.36:115][198]LogWorld: Bringing up level for play took: 0.002399
+[2022.07.04-06.30.36:117][198]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2022.07.04-06.30.36:117][198]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.07.04-06.30.36:117][198]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.07.04-06.30.36:117][198]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.07.04-06.30.36:118][198]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.07.04-06.30.36:118][198]PIE: Server logged in
+[2022.07.04-06.30.36:119][198]PIE: Play in editor total start time 0.099 seconds.
+[2022.07.04-06.30.47:220][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.04-06.30.47:220][285]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_test
+[2022.07.04-06.30.47:220][285]LogWorld: UWorld::CleanupWorld for test, bSessionEnded=true, bCleanupResources=true
+[2022.07.04-06.30.47:221][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.04-06.30.47:234][285]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.04-06.30.47:238][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.04-06.30.47:277][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.04-06.30.47:277][285]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2022.07.04-06.30.47:278][285]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2022.07.04-06.30.47:285][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.07.04-06.30.47:332][286]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2022.07.04-06.31.24:356][590]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.04-06.31.24:361][590]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.04-06.31.24:361][590]PIE: New page: PIE session: test (2022/07/05 0:31:24)
+[2022.07.04-06.31.24:362][590]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_test
+[2022.07.04-06.31.24:367][590]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005138s)
+[2022.07.04-06.31.24:367][590]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/test.test to /Game/Levels/UEDPIE_0_test.test (0.005220s)
+[2022.07.04-06.31.24:367][590]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.04-06.31.24:367][590]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.04-06.31.24:367][590]LogAIModule: Creating AISystem for world test
+[2022.07.04-06.31.24:367][590]LogPlayLevel: PIE: World Init took: (0.000720s)
+[2022.07.04-06.31.24:408][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.07.04-06.31.24:409][590]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2022.07.04-06.31.24:409][590]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.04-06.31.24:409][590]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.04-06.31.24:409][590]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.04-06.31.24:409][590]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.04-06.31.24:409][590]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.04-06.31.24:409][590]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.04-06.31.24:409][590]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.04-06.31.24:409][590]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.04-06.31.24:410][590]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.04-06.31.24:410][590]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.04-06.31.24:410][590]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.04-06.31.24:412][590]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.04-06.31.24:441][590]LogAudioMixer: Display: Using Audio Hardware Device スピーカー (2- Realtek High Definition Audio)
+[2022.07.04-06.31.24:441][590]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.04-06.31.24:441][590]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.04-06.31.24:441][590]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.04-06.31.24:442][590]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2022.07.04-06.31.24:442][590]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2022.07.04-06.31.24:443][590]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2022.07.04-06.31.24:443][590]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2022.07.04-06.31.24:443][590]LogInit: FAudioDevice initialized.
+[2022.07.04-06.31.24:443][590]LogAudio: Display: Audio Device (ID: 21) registered with world 'test'.
+[2022.07.04-06.31.24:456][590]LogLoad: Game class is 'GM_Configurator_C'
+[2022.07.04-06.31.24:459][590]LogWorld: Bringing World /Game/Levels/UEDPIE_0_test.test up for play (max tick rate 0) at 2022.07.04-15.31.24
+[2022.07.04-06.31.24:459][590]LogWorld: Bringing up level for play took: 0.002671
+[2022.07.04-06.31.24:461][590]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2022.07.04-06.31.24:461][590]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.07.04-06.31.24:461][590]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.07.04-06.31.24:461][590]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.07.04-06.31.24:462][590]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.07.04-06.31.24:462][590]PIE: Server logged in
+[2022.07.04-06.31.24:463][590]PIE: Play in editor total start time 0.101 seconds.
+[2022.07.04-06.31.26:240][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.04-06.31.26:240][752]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_test
+[2022.07.04-06.31.26:240][752]LogWorld: UWorld::CleanupWorld for test, bSessionEnded=true, bCleanupResources=true
+[2022.07.04-06.31.26:241][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.04-06.31.26:254][752]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.04-06.31.26:258][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.04-06.31.26:297][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.04-06.31.26:297][752]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2022.07.04-06.31.26:299][752]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2022.07.04-06.31.26:305][752]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.07.04-06.31.26:351][753]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2022.07.04-06.33.25:863][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.07.04-06.33.25:885][209]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/test_Auto2
+[2022.07.04-06.33.25:886][209]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2A86CB6CF4B41B1270D9C8D88A1D1292A.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-06.33.26:386][209]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2A86CB6CF4B41B1270D9C8D88A1D1292A.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-06.33.26:887][209]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2A86CB6CF4B41B1270D9C8D88A1D1292A.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-06.33.27:388][209]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2A86CB6CF4B41B1270D9C8D88A1D1292A.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-06.33.27:889][209]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2A86CB6CF4B41B1270D9C8D88A1D1292A.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-06.33.28:391][209]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2A86CB6CF4B41B1270D9C8D88A1D1292A.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-06.33.28:892][209]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2A86CB6CF4B41B1270D9C8D88A1D1292A.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-06.33.29:393][209]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2A86CB6CF4B41B1270D9C8D88A1D1292A.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-06.33.29:894][209]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2A86CB6CF4B41B1270D9C8D88A1D1292A.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-06.33.30:394][209]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2A86CB6CF4B41B1270D9C8D88A1D1292A.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-06.33.30:895][209]LogFileManager: Error: Error moving file '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2A86CB6CF4B41B1270D9C8D88A1D1292A.tmp'.
+[2022.07.04-06.33.30:895][209]LogSavePackage: Warning: Failed to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to temp directory
+[2022.07.04-06.33.30:895][209]LogSavePackage: Error: Error saving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap'
+[2022.07.04-06.33.30:899][209]EditorErrors: New page: Save Output
+[2022.07.04-06.33.30:899][209]EditorErrors: Warning: Error saving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap'
+[2022.07.04-06.33.30:964][209]LogFileHelpers: Editor autosave (incl. sublevels) failed for file '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' which belongs to world '/Game/Levels/test'. Aborting autosave.
+[2022.07.04-06.33.41:758][242]LogSlate: Window 'Message Log' being destroyed
+[2022.07.04-06.33.41:761][242]LogSlate: Window 'Message Log' being destroyed
+[2022.07.04-06.34.16:380][912]LogViewport: Scene viewport resized to 997x691, mode Windowed.
+[2022.07.04-06.37.23:576][370]LogEditorTransaction: Undo Modify Component(s)
+[2022.07.04-06.38.09:889][484]BlueprintLog: New page: Compile SpeakerBP
+[2022.07.04-06.38.10:033][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.07.04-06.38.11:352][543]LogSavePackage: Moving output files for package: /Game/Spkrs/BP/SpeakerBP
+[2022.07.04-06.38.11:352][543]LogSavePackage: Moving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/SpeakerBP4A4341AF4566466B468ADFB42521CC14.tmp' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Content/Spkrs/BP/SpeakerBP.uasset'
+[2022.07.04-06.38.11:373][543]AssetCheck: New page: Asset Save: SpeakerBP
+[2022.07.04-06.38.11:373][543]LogContentValidation: Display: Validating Blueprint /Game/Spkrs/BP/SpeakerBP.SpeakerBP
+[2022.07.04-06.43.31:530][370]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.07.04-06.43.31:562][370]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/test_Auto2
+[2022.07.04-06.43.31:563][370]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2B11EAE464526895FE0E34D9CCFA4B56A.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-06.43.32:064][370]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2B11EAE464526895FE0E34D9CCFA4B56A.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-06.43.32:565][370]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2B11EAE464526895FE0E34D9CCFA4B56A.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-06.43.33:065][370]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2B11EAE464526895FE0E34D9CCFA4B56A.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-06.43.33:566][370]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2B11EAE464526895FE0E34D9CCFA4B56A.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-06.43.34:067][370]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2B11EAE464526895FE0E34D9CCFA4B56A.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-06.43.34:568][370]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2B11EAE464526895FE0E34D9CCFA4B56A.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-06.43.35:069][370]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2B11EAE464526895FE0E34D9CCFA4B56A.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-06.43.35:571][370]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2B11EAE464526895FE0E34D9CCFA4B56A.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-06.43.36:071][370]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2B11EAE464526895FE0E34D9CCFA4B56A.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-06.43.36:572][370]LogFileManager: Error: Error moving file '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2B11EAE464526895FE0E34D9CCFA4B56A.tmp'.
+[2022.07.04-06.43.36:572][370]LogSavePackage: Warning: Failed to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to temp directory
+[2022.07.04-06.43.36:572][370]LogSavePackage: Error: Error saving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap'
+[2022.07.04-06.43.36:576][370]EditorErrors: New page: Save Output
+[2022.07.04-06.43.36:576][370]EditorErrors: Warning: Error saving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap'
+[2022.07.04-06.43.36:646][370]LogFileHelpers: Editor autosave (incl. sublevels) failed for file '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' which belongs to world '/Game/Levels/test'. Aborting autosave.
+[2022.07.04-06.46.24:104][877]LogSlate: Window 'Message Log' being destroyed
+[2022.07.04-06.46.24:114][877]LogSlate: Window 'Message Log' being destroyed
+[2022.07.04-06.53.27:256][372]BlueprintLog: New page: Compile SpeakerBP
+[2022.07.04-06.53.27:439][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.07.04-06.53.28:440][418]LogSavePackage: Moving output files for package: /Game/Spkrs/BP/SpeakerBP
+[2022.07.04-06.53.28:441][418]LogSavePackage: Moving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/SpeakerBPB5BA56E14170276641D498B2CD783F4A.tmp' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Content/Spkrs/BP/SpeakerBP.uasset'
+[2022.07.04-06.53.28:459][418]AssetCheck: New page: Asset Save: SpeakerBP
+[2022.07.04-06.53.28:459][418]LogContentValidation: Display: Validating Blueprint /Game/Spkrs/BP/SpeakerBP.SpeakerBP
+[2022.07.04-06.53.40:007][729]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.07.04-06.53.40:029][729]LogSavePackage: Moving output files for package: /Game/Levels/test
+[2022.07.04-06.53.40:030][729]LogSavePackage: Moving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test391732694EAB6185FDD2F281321919B3.tmp' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Content/Levels/test.umap'
+[2022.07.04-06.53.40:042][729]LogFileHelpers: No new changes to save!
+[2022.07.04-06.53.40:042][729]LogFileHelpers: Saving map 'test' took 0.105
+[2022.07.04-06.53.40:055][729]AssetCheck: New page: Asset Save: test
+[2022.07.04-06.53.40:055][729]LogContentValidation: Display: Validating World /Game/Levels/test.test
+[2022.07.04-07.00.14:335][270]LogSavePackage: Moving output files for package: /Game/Spkrs/BP/SpeakerLogic_BP
+[2022.07.04-07.00.14:335][270]LogSavePackage: Moving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/SpeakerLogic_BP87DBA3614E3C3097D5DFF1839E84A4E9.tmp' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Content/Spkrs/BP/SpeakerLogic_BP.uasset'
+[2022.07.04-07.00.14:349][270]AssetCheck: New page: Asset Save: SpeakerLogic_BP
+[2022.07.04-07.00.14:349][270]LogContentValidation: Display: Validating Blueprint /Game/Spkrs/BP/SpeakerLogic_BP.SpeakerLogic_BP
+[2022.07.04-07.03.13:319][653]BlueprintLog: New page: Compile SpeakerLogic_BP
+[2022.07.04-07.03.13:400][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.07.04-07.03.14:349][694]LogSavePackage: Moving output files for package: /Game/Spkrs/BP/SpeakerLogic_BP
+[2022.07.04-07.03.14:350][694]LogSavePackage: Moving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/SpeakerLogic_BP9B305B2A4AEA6C3566978BAE06721673.tmp' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Content/Spkrs/BP/SpeakerLogic_BP.uasset'
+[2022.07.04-07.03.14:362][694]AssetCheck: New page: Asset Save: SpeakerLogic_BP
+[2022.07.04-07.03.14:362][694]LogContentValidation: Display: Validating Blueprint /Game/Spkrs/BP/SpeakerLogic_BP.SpeakerLogic_BP
+[2022.07.04-07.03.54:532][881]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.07.04-07.03.54:558][881]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/test_Auto2
+[2022.07.04-07.03.54:558][881]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto280A22DE645EBA8980D89B79A26949B05.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.03.55:059][881]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto280A22DE645EBA8980D89B79A26949B05.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.03.55:560][881]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto280A22DE645EBA8980D89B79A26949B05.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.03.56:062][881]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto280A22DE645EBA8980D89B79A26949B05.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.03.56:563][881]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto280A22DE645EBA8980D89B79A26949B05.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.03.57:064][881]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto280A22DE645EBA8980D89B79A26949B05.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.03.57:565][881]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto280A22DE645EBA8980D89B79A26949B05.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.03.58:066][881]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto280A22DE645EBA8980D89B79A26949B05.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.03.58:567][881]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto280A22DE645EBA8980D89B79A26949B05.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.03.59:068][881]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto280A22DE645EBA8980D89B79A26949B05.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.03.59:569][881]LogFileManager: Error: Error moving file '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto280A22DE645EBA8980D89B79A26949B05.tmp'.
+[2022.07.04-07.03.59:569][881]LogSavePackage: Warning: Failed to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to temp directory
+[2022.07.04-07.03.59:569][881]LogSavePackage: Error: Error saving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap'
+[2022.07.04-07.03.59:595][881]EditorErrors: New page: Save Output
+[2022.07.04-07.03.59:595][881]EditorErrors: Warning: Error saving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap'
+[2022.07.04-07.03.59:666][881]LogFileHelpers: Editor autosave (incl. sublevels) failed for file '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' which belongs to world '/Game/Levels/test'. Aborting autosave.
+[2022.07.04-07.04.08:680][602]LogSlate: Window 'Message Log' being destroyed
+[2022.07.04-07.04.08:687][602]LogSlate: Window 'Message Log' being destroyed
+[2022.07.04-07.12.36:157][ 40]LogSavePackage: Moving output files for package: /Game/Spkrs/BP/SpeakerLogic_BP
+[2022.07.04-07.12.36:158][ 40]LogSavePackage: Moving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/SpeakerLogic_BPAE07B397493E1E27CD93EAB967AF74FE.tmp' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Content/Spkrs/BP/SpeakerLogic_BP.uasset'
+[2022.07.04-07.12.36:173][ 40]AssetCheck: New page: Asset Save: SpeakerLogic_BP
+[2022.07.04-07.12.36:173][ 40]LogContentValidation: Display: Validating Blueprint /Game/Spkrs/BP/SpeakerLogic_BP.SpeakerLogic_BP
+[2022.07.04-07.12.36:992][ 92]BlueprintLog: New page: Compile SpeakerLogic_BP
+[2022.07.04-07.12.37:073][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.07.04-07.14.27:272][330]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.07.04-07.14.27:294][330]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/test_Auto2
+[2022.07.04-07.14.27:295][330]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2E3DBD5F047F60C5CE116B2B2703AE136.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.14.27:795][330]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2E3DBD5F047F60C5CE116B2B2703AE136.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.14.28:296][330]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2E3DBD5F047F60C5CE116B2B2703AE136.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.14.28:797][330]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2E3DBD5F047F60C5CE116B2B2703AE136.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.14.29:298][330]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2E3DBD5F047F60C5CE116B2B2703AE136.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.14.29:799][330]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2E3DBD5F047F60C5CE116B2B2703AE136.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.14.30:300][330]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2E3DBD5F047F60C5CE116B2B2703AE136.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.14.30:802][330]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2E3DBD5F047F60C5CE116B2B2703AE136.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.14.31:303][330]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2E3DBD5F047F60C5CE116B2B2703AE136.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.14.31:804][330]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2E3DBD5F047F60C5CE116B2B2703AE136.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.14.32:305][330]LogFileManager: Error: Error moving file '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2E3DBD5F047F60C5CE116B2B2703AE136.tmp'.
+[2022.07.04-07.14.32:305][330]LogSavePackage: Warning: Failed to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to temp directory
+[2022.07.04-07.14.32:305][330]LogSavePackage: Error: Error saving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap'
+[2022.07.04-07.14.32:321][330]EditorErrors: New page: Save Output
+[2022.07.04-07.14.32:321][330]EditorErrors: Warning: Error saving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap'
+[2022.07.04-07.14.32:383][330]LogFileHelpers: Editor autosave (incl. sublevels) failed for file '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' which belongs to world '/Game/Levels/test'. Aborting autosave.
+[2022.07.04-07.14.32:384][330]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Spkrs/BP/SpeakerLogic_BP] ([2] browsable assets)...
+[2022.07.04-07.14.32:384][330]OBJ SavePackage: Finished generating thumbnails for package [/Game/Spkrs/BP/SpeakerLogic_BP]
+[2022.07.04-07.14.32:409][330]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Spkrs/BP/SpeakerLogic_BP_Auto2
+[2022.07.04-07.14.32:409][330]LogSavePackage: Moving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/SpeakerLogic_BP_Auto2AFEC3ABE4A5D5AC0F8EE9DAFDEEDC126.tmp' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Spkrs/BP/SpeakerLogic_BP_Auto2.uasset'
+[2022.07.04-07.14.32:410][330]LogFileHelpers: Auto-saving content packages took 0.027
+[2022.07.04-07.14.34:103][417]LogSlate: Window 'Message Log' being destroyed
+[2022.07.04-07.14.34:110][417]LogSlate: Window 'Message Log' being destroyed
+[2022.07.04-07.17.04:386][ 82]BlueprintLog: New page: Compile SpeakerLogic_BP
+[2022.07.04-07.17.04:459][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.07.04-07.17.05:673][138]LogSavePackage: Moving output files for package: /Game/Spkrs/BP/SpeakerLogic_BP
+[2022.07.04-07.17.05:675][138]LogSavePackage: Moving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/SpeakerLogic_BP75FDAD064EEFEFB14B9147991A1B416E.tmp' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Content/Spkrs/BP/SpeakerLogic_BP.uasset'
+[2022.07.04-07.17.05:689][138]AssetCheck: New page: Asset Save: SpeakerLogic_BP
+[2022.07.04-07.17.05:689][138]LogContentValidation: Display: Validating Blueprint /Game/Spkrs/BP/SpeakerLogic_BP.SpeakerLogic_BP
+[2022.07.04-07.20.51:762][689]LogSavePackage: Moving output files for package: /Game/Spkrs/BP/SpeakerLogic_BP
+[2022.07.04-07.20.51:762][689]LogSavePackage: Moving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/SpeakerLogic_BPEDAA0DD3423775FB3B30789AE8D618B1.tmp' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Content/Spkrs/BP/SpeakerLogic_BP.uasset'
+[2022.07.04-07.20.51:777][689]AssetCheck: New page: Asset Save: SpeakerLogic_BP
+[2022.07.04-07.20.51:777][689]LogContentValidation: Display: Validating Blueprint /Game/Spkrs/BP/SpeakerLogic_BP.SpeakerLogic_BP
+[2022.07.04-07.24.47:727][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.07.04-07.24.47:749][746]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/test_Auto2
+[2022.07.04-07.24.47:749][746]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto21DCF5D99497471EF936738B38F1A8D22.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.24.48:250][746]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto21DCF5D99497471EF936738B38F1A8D22.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.24.48:751][746]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto21DCF5D99497471EF936738B38F1A8D22.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.24.49:252][746]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto21DCF5D99497471EF936738B38F1A8D22.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.24.49:753][746]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto21DCF5D99497471EF936738B38F1A8D22.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.24.50:254][746]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto21DCF5D99497471EF936738B38F1A8D22.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.24.50:755][746]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto21DCF5D99497471EF936738B38F1A8D22.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.24.51:256][746]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto21DCF5D99497471EF936738B38F1A8D22.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.24.51:757][746]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto21DCF5D99497471EF936738B38F1A8D22.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.24.52:258][746]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto21DCF5D99497471EF936738B38F1A8D22.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.24.52:760][746]LogFileManager: Error: Error moving file '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto21DCF5D99497471EF936738B38F1A8D22.tmp'.
+[2022.07.04-07.24.52:760][746]LogSavePackage: Warning: Failed to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to temp directory
+[2022.07.04-07.24.52:760][746]LogSavePackage: Error: Error saving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap'
+[2022.07.04-07.24.52:764][746]EditorErrors: New page: Save Output
+[2022.07.04-07.24.52:764][746]EditorErrors: Warning: Error saving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap'
+[2022.07.04-07.24.52:834][746]LogFileHelpers: Editor autosave (incl. sublevels) failed for file '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' which belongs to world '/Game/Levels/test'. Aborting autosave.
+[2022.07.04-07.24.52:835][746]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Spkrs/BP/SpeakerLogic_BP] ([2] browsable assets)...
+[2022.07.04-07.24.52:835][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/Spkrs/BP/SpeakerLogic_BP]
+[2022.07.04-07.24.52:872][746]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Spkrs/BP/SpeakerLogic_BP_Auto2
+[2022.07.04-07.24.52:873][746]LogSavePackage: Moving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/SpeakerLogic_BP_Auto253CCFB384157327774CF87A3C29DBDE9.tmp' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Spkrs/BP/SpeakerLogic_BP_Auto2.uasset'
+[2022.07.04-07.24.52:875][746]LogFileHelpers: Auto-saving content packages took 0.041
+[2022.07.04-07.24.54:634][838]LogSlate: Window 'Message Log' being destroyed
+[2022.07.04-07.24.54:642][838]LogSlate: Window 'Message Log' being destroyed
+[2022.07.04-07.26.07:659][408]LogDerivedDataCache: C:/Users/YoutaTakahara/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.301 and deleted 0 file(s) with total size 0 MiB.
+[2022.07.04-07.27.25:516][906]BlueprintLog: New page: Compile SpeakerLogic_BP
+[2022.07.04-07.27.25:591][906]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.07.04-07.27.26:992][978]LogSavePackage: Moving output files for package: /Game/Spkrs/BP/SpeakerLogic_BP
+[2022.07.04-07.27.26:993][978]LogSavePackage: Moving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/SpeakerLogic_BP044F9EA04D093A7CA36030B63DEEB3FD.tmp' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Content/Spkrs/BP/SpeakerLogic_BP.uasset'
+[2022.07.04-07.27.27:011][978]AssetCheck: New page: Asset Save: SpeakerLogic_BP
+[2022.07.04-07.27.27:011][978]LogContentValidation: Display: Validating Blueprint /Game/Spkrs/BP/SpeakerLogic_BP.SpeakerLogic_BP
+[2022.07.04-07.27.43:713][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.07.04-07.27.43:734][ 24]LogSavePackage: Moving output files for package: /Game/Levels/test
+[2022.07.04-07.27.43:735][ 24]LogSavePackage: Moving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test73D4779E44B9FDAB6ABA4392AC77646C.tmp' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Content/Levels/test.umap'
+[2022.07.04-07.27.43:745][ 24]LogFileHelpers: No new changes to save!
+[2022.07.04-07.27.43:745][ 24]LogFileHelpers: Saving map 'test' took 0.087
+[2022.07.04-07.27.43:758][ 24]AssetCheck: New page: Asset Save: test
+[2022.07.04-07.27.43:758][ 24]LogContentValidation: Display: Validating World /Game/Levels/test.test
+[2022.07.04-07.28.45:744][674]LogSavePackage: Moving output files for package: /Game/Spkrs/BP/SpeakerBP
+[2022.07.04-07.28.45:745][674]LogSavePackage: Moving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/SpeakerBP41EBC53342F51A7E6FAC60B5F45C36E2.tmp' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Content/Spkrs/BP/SpeakerBP.uasset'
+[2022.07.04-07.28.45:765][674]AssetCheck: New page: Asset Save: SpeakerBP
+[2022.07.04-07.28.45:765][674]LogContentValidation: Display: Validating Blueprint /Game/Spkrs/BP/SpeakerBP.SpeakerBP
+[2022.07.04-07.31.52:747][118]BlueprintLog: New page: Compile SpeakerBP
+[2022.07.04-07.31.52:865][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.07.04-07.31.57:118][333]LogSavePackage: Moving output files for package: /Game/Spkrs/BP/SpeakerBP
+[2022.07.04-07.31.57:119][333]LogSavePackage: Moving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/SpeakerBPAE5EDB7D49FD7FC3AFC57D93761F61F2.tmp' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Content/Spkrs/BP/SpeakerBP.uasset'
+[2022.07.04-07.31.57:138][333]AssetCheck: New page: Asset Save: SpeakerBP
+[2022.07.04-07.31.57:138][333]LogContentValidation: Display: Validating Blueprint /Game/Spkrs/BP/SpeakerBP.SpeakerBP
+[2022.07.04-07.32.00:685][532]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.04-07.32.00:691][532]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.04-07.32.00:691][532]PIE: New page: PIE session: test (2022/07/05 1:32:00)
+[2022.07.04-07.32.00:691][532]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_test
+[2022.07.04-07.32.00:697][532]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005565s)
+[2022.07.04-07.32.00:697][532]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/test.test to /Game/Levels/UEDPIE_0_test.test (0.005650s)
+[2022.07.04-07.32.00:697][532]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.04-07.32.00:697][532]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.04-07.32.00:697][532]LogAIModule: Creating AISystem for world test
+[2022.07.04-07.32.00:697][532]LogPlayLevel: PIE: World Init took: (0.000760s)
+[2022.07.04-07.32.00:740][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.07.04-07.32.00:742][532]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2022.07.04-07.32.00:743][532]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.04-07.32.00:743][532]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.04-07.32.00:743][532]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.04-07.32.00:743][532]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.04-07.32.00:743][532]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.04-07.32.00:743][532]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.04-07.32.00:743][532]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.04-07.32.00:743][532]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.04-07.32.00:743][532]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.04-07.32.00:743][532]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.04-07.32.00:743][532]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.04-07.32.00:745][532]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.04-07.32.00:774][532]LogAudioMixer: Display: Using Audio Hardware Device スピーカー (2- Realtek High Definition Audio)
+[2022.07.04-07.32.00:775][532]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.04-07.32.00:775][532]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.04-07.32.00:775][532]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.04-07.32.00:776][532]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2022.07.04-07.32.00:776][532]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2022.07.04-07.32.00:778][532]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2022.07.04-07.32.00:778][532]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2022.07.04-07.32.00:778][532]LogInit: FAudioDevice initialized.
+[2022.07.04-07.32.00:778][532]LogAudio: Display: Audio Device (ID: 22) registered with world 'test'.
+[2022.07.04-07.32.00:785][532]LogLoad: Game class is 'GM_Configurator_C'
+[2022.07.04-07.32.00:788][532]LogWorld: Bringing World /Game/Levels/UEDPIE_0_test.test up for play (max tick rate 0) at 2022.07.04-16.32.00
+[2022.07.04-07.32.00:789][532]LogWorld: Bringing up level for play took: 0.002989
+[2022.07.04-07.32.00:790][532]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2022.07.04-07.32.00:791][532]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.07.04-07.32.00:791][532]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.07.04-07.32.00:791][532]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.07.04-07.32.00:792][532]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.07.04-07.32.00:792][532]PIE: Server logged in
+[2022.07.04-07.32.00:792][532]PIE: Play in editor total start time 0.102 seconds.
+[2022.07.04-07.32.12:058][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.04-07.32.12:058][676]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_test
+[2022.07.04-07.32.12:058][676]LogWorld: UWorld::CleanupWorld for test, bSessionEnded=true, bCleanupResources=true
+[2022.07.04-07.32.12:059][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.04-07.32.12:077][676]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.04-07.32.12:081][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.04-07.32.12:121][676]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.04-07.32.12:121][676]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2022.07.04-07.32.12:122][676]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2022.07.04-07.32.12:126][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.04-07.32.12:129][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.07.04-07.32.12:181][677]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2022.07.04-07.32.48:158][701]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.04-07.32.48:165][701]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.04-07.32.48:166][701]PIE: New page: PIE session: test (2022/07/05 1:32:48)
+[2022.07.04-07.32.48:166][701]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_test
+[2022.07.04-07.32.48:171][701]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005295s)
+[2022.07.04-07.32.48:171][701]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/test.test to /Game/Levels/UEDPIE_0_test.test (0.005377s)
+[2022.07.04-07.32.48:171][701]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.04-07.32.48:171][701]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.04-07.32.48:172][701]LogAIModule: Creating AISystem for world test
+[2022.07.04-07.32.48:172][701]LogPlayLevel: PIE: World Init took: (0.000730s)
+[2022.07.04-07.32.48:216][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.07.04-07.32.48:218][701]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2022.07.04-07.32.48:218][701]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.04-07.32.48:218][701]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.04-07.32.48:218][701]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.04-07.32.48:218][701]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.04-07.32.48:218][701]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.04-07.32.48:218][701]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.04-07.32.48:218][701]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.04-07.32.48:218][701]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.04-07.32.48:218][701]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.04-07.32.48:218][701]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.04-07.32.48:218][701]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.04-07.32.48:220][701]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.04-07.32.48:250][701]LogAudioMixer: Display: Using Audio Hardware Device スピーカー (2- Realtek High Definition Audio)
+[2022.07.04-07.32.48:251][701]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.04-07.32.48:251][701]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.04-07.32.48:251][701]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.04-07.32.48:252][701]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2022.07.04-07.32.48:252][701]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2022.07.04-07.32.48:253][701]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2022.07.04-07.32.48:253][701]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2022.07.04-07.32.48:253][701]LogInit: FAudioDevice initialized.
+[2022.07.04-07.32.48:253][701]LogAudio: Display: Audio Device (ID: 23) registered with world 'test'.
+[2022.07.04-07.32.48:260][701]LogLoad: Game class is 'GM_Configurator_C'
+[2022.07.04-07.32.48:263][701]LogWorld: Bringing World /Game/Levels/UEDPIE_0_test.test up for play (max tick rate 0) at 2022.07.04-16.32.48
+[2022.07.04-07.32.48:263][701]LogWorld: Bringing up level for play took: 0.002967
+[2022.07.04-07.32.48:265][701]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2022.07.04-07.32.48:265][701]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.07.04-07.32.48:265][701]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.07.04-07.32.48:265][701]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.07.04-07.32.48:266][701]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.07.04-07.32.48:266][701]PIE: Server logged in
+[2022.07.04-07.32.48:267][701]PIE: Play in editor total start time 0.102 seconds.
+[2022.07.04-07.32.51:970][ 71]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.04-07.32.51:970][ 71]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_test
+[2022.07.04-07.32.51:970][ 71]LogWorld: UWorld::CleanupWorld for test, bSessionEnded=true, bCleanupResources=true
+[2022.07.04-07.32.51:971][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.04-07.32.52:017][ 71]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.04-07.32.52:023][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.04-07.32.52:101][ 71]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.04-07.32.52:101][ 71]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2022.07.04-07.32.52:103][ 71]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2022.07.04-07.32.52:114][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.07.04-07.32.52:235][ 72]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2022.07.04-07.37.59:159][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.07.04-07.37.59:182][888]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/test_Auto2
+[2022.07.04-07.37.59:182][888]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2B8A93E1B4B425D15EE5825AC56BD3428.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.37.59:683][888]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2B8A93E1B4B425D15EE5825AC56BD3428.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.38.00:184][888]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2B8A93E1B4B425D15EE5825AC56BD3428.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.38.00:685][888]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2B8A93E1B4B425D15EE5825AC56BD3428.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.38.01:185][888]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2B8A93E1B4B425D15EE5825AC56BD3428.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.38.01:686][888]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2B8A93E1B4B425D15EE5825AC56BD3428.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.38.02:187][888]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2B8A93E1B4B425D15EE5825AC56BD3428.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.38.02:688][888]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2B8A93E1B4B425D15EE5825AC56BD3428.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.38.03:189][888]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2B8A93E1B4B425D15EE5825AC56BD3428.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.38.03:690][888]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2B8A93E1B4B425D15EE5825AC56BD3428.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.38.04:191][888]LogFileManager: Error: Error moving file '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2B8A93E1B4B425D15EE5825AC56BD3428.tmp'.
+[2022.07.04-07.38.04:191][888]LogSavePackage: Warning: Failed to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to temp directory
+[2022.07.04-07.38.04:191][888]LogSavePackage: Error: Error saving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap'
+[2022.07.04-07.38.04:195][888]EditorErrors: New page: Save Output
+[2022.07.04-07.38.04:195][888]EditorErrors: Warning: Error saving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap'
+[2022.07.04-07.38.04:266][888]LogFileHelpers: Editor autosave (incl. sublevels) failed for file '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' which belongs to world '/Game/Levels/test'. Aborting autosave.
+[2022.07.04-07.38.48:413][642]LogSlate: Window 'Message Log' being destroyed
+[2022.07.04-07.38.48:420][642]LogSlate: Window 'Message Log' being destroyed
+[2022.07.04-07.48.14:655][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.07.04-07.48.14:680][430]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/test_Auto2
+[2022.07.04-07.48.14:680][430]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto25723E7E942CFFF4AA135AA98538354EA.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.48.15:180][430]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto25723E7E942CFFF4AA135AA98538354EA.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.48.15:681][430]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto25723E7E942CFFF4AA135AA98538354EA.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.48.16:182][430]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto25723E7E942CFFF4AA135AA98538354EA.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.48.16:683][430]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto25723E7E942CFFF4AA135AA98538354EA.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.48.17:184][430]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto25723E7E942CFFF4AA135AA98538354EA.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.48.17:685][430]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto25723E7E942CFFF4AA135AA98538354EA.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.48.18:185][430]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto25723E7E942CFFF4AA135AA98538354EA.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.48.18:686][430]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto25723E7E942CFFF4AA135AA98538354EA.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.48.19:186][430]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto25723E7E942CFFF4AA135AA98538354EA.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.48.19:687][430]LogFileManager: Error: Error moving file '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto25723E7E942CFFF4AA135AA98538354EA.tmp'.
+[2022.07.04-07.48.19:687][430]LogSavePackage: Warning: Failed to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to temp directory
+[2022.07.04-07.48.19:687][430]LogSavePackage: Error: Error saving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap'
+[2022.07.04-07.48.19:689][430]EditorErrors: New page: Save Output
+[2022.07.04-07.48.19:689][430]EditorErrors: Warning: Error saving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap'
+[2022.07.04-07.48.19:762][430]LogFileHelpers: Editor autosave (incl. sublevels) failed for file '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' which belongs to world '/Game/Levels/test'. Aborting autosave.
+[2022.07.04-07.48.19:764][430]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Spkrs/BP/SpeakerBP] ([2] browsable assets)...
+[2022.07.04-07.48.19:784][430]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Spkrs/BP/SpeakerBP.SpeakerBP]
+[2022.07.04-07.48.19:784][430]OBJ SavePackage: Finished generating thumbnails for package [/Game/Spkrs/BP/SpeakerBP]
+[2022.07.04-07.48.19:806][430]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Spkrs/BP/SpeakerBP_Auto2
+[2022.07.04-07.48.19:807][430]LogSavePackage: Moving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/SpeakerBP_Auto22F4B2A384A94407CE3567F9374AC8EF2.tmp' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Spkrs/BP/SpeakerBP_Auto2.uasset'
+[2022.07.04-07.48.19:809][430]LogFileHelpers: Auto-saving content packages took 0.046
+[2022.07.04-07.58.20:323][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.07.04-07.58.20:350][220]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/test_Auto2
+[2022.07.04-07.58.20:350][220]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2D2F58DD94EB64DDFFAB898945C90432F.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.58.20:850][220]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2D2F58DD94EB64DDFFAB898945C90432F.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.58.21:351][220]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2D2F58DD94EB64DDFFAB898945C90432F.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.58.21:852][220]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2D2F58DD94EB64DDFFAB898945C90432F.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.58.22:353][220]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2D2F58DD94EB64DDFFAB898945C90432F.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.58.22:854][220]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2D2F58DD94EB64DDFFAB898945C90432F.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.58.23:355][220]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2D2F58DD94EB64DDFFAB898945C90432F.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.58.23:855][220]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2D2F58DD94EB64DDFFAB898945C90432F.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.58.24:356][220]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2D2F58DD94EB64DDFFAB898945C90432F.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.58.24:857][220]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2D2F58DD94EB64DDFFAB898945C90432F.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-07.58.25:358][220]LogFileManager: Error: Error moving file '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2D2F58DD94EB64DDFFAB898945C90432F.tmp'.
+[2022.07.04-07.58.25:358][220]LogSavePackage: Warning: Failed to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to temp directory
+[2022.07.04-07.58.25:358][220]LogSavePackage: Error: Error saving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap'
+[2022.07.04-07.58.25:360][220]EditorErrors: New page: Save Output
+[2022.07.04-07.58.25:360][220]EditorErrors: Warning: Error saving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap'
+[2022.07.04-07.58.25:361][220]LogFileHelpers: Editor autosave (incl. sublevels) failed for file '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' which belongs to world '/Game/Levels/test'. Aborting autosave.
+[2022.07.04-07.58.56:940][315]LogSlate: Window 'Message Log' being destroyed
+[2022.07.04-07.58.56:948][315]LogSlate: Window 'Message Log' being destroyed
+[2022.07.04-07.59.53:139][585]LogEditorTransaction: Undo Attach Component
+[2022.07.04-08.07.07:606][147]BlueprintLog: New page: Compile SpeakerBP
+[2022.07.04-08.07.07:846][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.07.04-08.07.08:700][183]LogSavePackage: Moving output files for package: /Game/Spkrs/BP/SpeakerBP
+[2022.07.04-08.07.08:701][183]LogSavePackage: Moving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/SpeakerBP08733EC84302BFDD29DEC99B7AAD15E8.tmp' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Content/Spkrs/BP/SpeakerBP.uasset'
+[2022.07.04-08.07.08:720][183]AssetCheck: New page: Asset Save: SpeakerBP
+[2022.07.04-08.07.08:720][183]LogContentValidation: Display: Validating Blueprint /Game/Spkrs/BP/SpeakerBP.SpeakerBP
+[2022.07.04-08.07.36:311][529]LogViewport: Scene viewport resized to 747x606, mode Windowed.
+[2022.07.04-08.07.36:348][530]LogViewport: Scene viewport resized to 754x606, mode Windowed.
+[2022.07.04-08.07.36:387][531]LogViewport: Scene viewport resized to 785x606, mode Windowed.
+[2022.07.04-08.07.36:426][532]LogViewport: Scene viewport resized to 815x606, mode Windowed.
+[2022.07.04-08.07.36:463][533]LogViewport: Scene viewport resized to 822x606, mode Windowed.
+[2022.07.04-08.07.36:502][534]LogViewport: Scene viewport resized to 831x606, mode Windowed.
+[2022.07.04-08.07.36:538][535]LogViewport: Scene viewport resized to 883x606, mode Windowed.
+[2022.07.04-08.07.36:577][536]LogViewport: Scene viewport resized to 944x606, mode Windowed.
+[2022.07.04-08.07.36:614][537]LogViewport: Scene viewport resized to 961x606, mode Windowed.
+[2022.07.04-08.08.54:213][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.07.04-08.08.54:236][971]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/test_Auto2
+[2022.07.04-08.08.54:237][971]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2A2549CA8459D5CB8B598AFA821923194.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-08.08.54:737][971]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2A2549CA8459D5CB8B598AFA821923194.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-08.08.55:239][971]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2A2549CA8459D5CB8B598AFA821923194.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-08.08.55:740][971]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2A2549CA8459D5CB8B598AFA821923194.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-08.08.56:241][971]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2A2549CA8459D5CB8B598AFA821923194.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-08.08.56:742][971]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2A2549CA8459D5CB8B598AFA821923194.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-08.08.57:243][971]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2A2549CA8459D5CB8B598AFA821923194.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-08.08.57:744][971]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2A2549CA8459D5CB8B598AFA821923194.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-08.08.58:245][971]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2A2549CA8459D5CB8B598AFA821923194.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-08.08.58:746][971]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2A2549CA8459D5CB8B598AFA821923194.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-08.08.59:247][971]LogFileManager: Error: Error moving file '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2A2549CA8459D5CB8B598AFA821923194.tmp'.
+[2022.07.04-08.08.59:247][971]LogSavePackage: Warning: Failed to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to temp directory
+[2022.07.04-08.08.59:247][971]LogSavePackage: Error: Error saving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap'
+[2022.07.04-08.08.59:251][971]EditorErrors: New page: Save Output
+[2022.07.04-08.08.59:252][971]EditorErrors: Warning: Error saving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap'
+[2022.07.04-08.08.59:336][971]LogFileHelpers: Editor autosave (incl. sublevels) failed for file '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' which belongs to world '/Game/Levels/test'. Aborting autosave.
+[2022.07.04-08.08.59:337][971]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Spkrs/BP/SpeakerLogic_BP] ([2] browsable assets)...
+[2022.07.04-08.08.59:337][971]OBJ SavePackage: Finished generating thumbnails for package [/Game/Spkrs/BP/SpeakerLogic_BP]
+[2022.07.04-08.08.59:377][971]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Spkrs/BP/SpeakerLogic_BP_Auto2
+[2022.07.04-08.08.59:378][971]LogSavePackage: Moving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/SpeakerLogic_BP_Auto25D9EC3BE46F4BBF35FB55F95E2291E54.tmp' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Spkrs/BP/SpeakerLogic_BP_Auto2.uasset'
+[2022.07.04-08.08.59:379][971]LogFileHelpers: Auto-saving content packages took 0.043
+[2022.07.04-08.09.02:281][994]LogSlate: Window 'Message Log' being destroyed
+[2022.07.04-08.09.02:288][994]LogSlate: Window 'Message Log' being destroyed
+[2022.07.04-08.17.37:701][788]BlueprintLog: New page: Compile SpeakerLogic_BP
+[2022.07.04-08.17.37:786][788]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.07.04-08.17.39:077][848]LogSavePackage: Moving output files for package: /Game/Spkrs/BP/SpeakerLogic_BP
+[2022.07.04-08.17.39:078][848]LogSavePackage: Moving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/SpeakerLogic_BP87CBB4A2413243A502EF5AA43F46A296.tmp' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Content/Spkrs/BP/SpeakerLogic_BP.uasset'
+[2022.07.04-08.17.39:091][848]AssetCheck: New page: Asset Save: SpeakerLogic_BP
+[2022.07.04-08.17.39:091][848]LogContentValidation: Display: Validating Blueprint /Game/Spkrs/BP/SpeakerLogic_BP.SpeakerLogic_BP
+[2022.07.04-08.18.59:558][194]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to STreeView< TSharedPtr<FGraphActionNode> > [SGraphActionMenu.cpp(312)].
+[2022.07.04-08.18.59:636][194]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.07.04-08.18.59:659][194]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/test_Auto2
+[2022.07.04-08.18.59:659][194]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto21151259A4946307D9D8FF6AF9AC85151.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-08.19.00:159][194]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto21151259A4946307D9D8FF6AF9AC85151.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-08.19.00:660][194]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto21151259A4946307D9D8FF6AF9AC85151.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-08.19.01:161][194]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto21151259A4946307D9D8FF6AF9AC85151.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-08.19.01:661][194]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto21151259A4946307D9D8FF6AF9AC85151.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-08.19.02:162][194]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto21151259A4946307D9D8FF6AF9AC85151.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-08.19.02:663][194]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto21151259A4946307D9D8FF6AF9AC85151.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-08.19.03:164][194]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto21151259A4946307D9D8FF6AF9AC85151.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-08.19.03:664][194]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto21151259A4946307D9D8FF6AF9AC85151.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-08.19.04:165][194]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto21151259A4946307D9D8FF6AF9AC85151.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-08.19.04:666][194]LogFileManager: Error: Error moving file '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto21151259A4946307D9D8FF6AF9AC85151.tmp'.
+[2022.07.04-08.19.04:666][194]LogSavePackage: Warning: Failed to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to temp directory
+[2022.07.04-08.19.04:666][194]LogSavePackage: Error: Error saving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap'
+[2022.07.04-08.19.04:676][194]EditorErrors: New page: Save Output
+[2022.07.04-08.19.04:676][194]EditorErrors: Warning: Error saving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap'
+[2022.07.04-08.19.04:768][194]LogFileHelpers: Editor autosave (incl. sublevels) failed for file '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' which belongs to world '/Game/Levels/test'. Aborting autosave.
+[2022.07.04-08.19.04:770][194]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Spkrs/BP/SpeakerLogic_BP] ([2] browsable assets)...
+[2022.07.04-08.19.04:770][194]OBJ SavePackage: Finished generating thumbnails for package [/Game/Spkrs/BP/SpeakerLogic_BP]
+[2022.07.04-08.19.04:814][194]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Spkrs/BP/SpeakerLogic_BP_Auto2
+[2022.07.04-08.19.04:815][194]LogSavePackage: Moving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/SpeakerLogic_BP_Auto2D958C4614AFE2A4A79DF33951258A488.tmp' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Spkrs/BP/SpeakerLogic_BP_Auto2.uasset'
+[2022.07.04-08.19.04:816][194]LogFileHelpers: Auto-saving content packages took 0.048
+[2022.07.04-08.19.06:658][285]LogSlate: Window 'Message Log' being destroyed
+[2022.07.04-08.19.06:664][285]LogSlate: Window 'Message Log' being destroyed
+[2022.07.04-08.26.07:378][246]LogDerivedDataCache: C:/Users/YoutaTakahara/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.283 and deleted 0 file(s) with total size 0 MiB.
+[2022.07.04-08.27.23:046][938]LogSavePackage: Moving output files for package: /Game/Spkrs/BP/SpeakerLogic_BP
+[2022.07.04-08.27.23:046][938]LogSavePackage: Moving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/SpeakerLogic_BPA7C54CC948A2881B2734B9ADA62C5A3F.tmp' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Content/Spkrs/BP/SpeakerLogic_BP.uasset'
+[2022.07.04-08.27.23:061][938]AssetCheck: New page: Asset Save: SpeakerLogic_BP
+[2022.07.04-08.27.23:061][938]LogContentValidation: Display: Validating Blueprint /Game/Spkrs/BP/SpeakerLogic_BP.SpeakerLogic_BP
+[2022.07.04-08.29.05:243][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.07.04-08.29.05:267][143]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/test_Auto2
+[2022.07.04-08.29.05:267][143]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2693BC70D4D467CBF054F63B98080C21B.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-08.29.05:767][143]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2693BC70D4D467CBF054F63B98080C21B.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-08.29.06:268][143]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2693BC70D4D467CBF054F63B98080C21B.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-08.29.06:769][143]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2693BC70D4D467CBF054F63B98080C21B.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-08.29.07:270][143]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2693BC70D4D467CBF054F63B98080C21B.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-08.29.07:771][143]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2693BC70D4D467CBF054F63B98080C21B.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-08.29.08:272][143]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2693BC70D4D467CBF054F63B98080C21B.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-08.29.08:773][143]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2693BC70D4D467CBF054F63B98080C21B.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-08.29.09:274][143]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2693BC70D4D467CBF054F63B98080C21B.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-08.29.09:775][143]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2693BC70D4D467CBF054F63B98080C21B.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-08.29.10:276][143]LogFileManager: Error: Error moving file '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto2693BC70D4D467CBF054F63B98080C21B.tmp'.
+[2022.07.04-08.29.10:276][143]LogSavePackage: Warning: Failed to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to temp directory
+[2022.07.04-08.29.10:276][143]LogSavePackage: Error: Error saving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap'
+[2022.07.04-08.29.10:281][143]EditorErrors: New page: Save Output
+[2022.07.04-08.29.10:281][143]EditorErrors: Warning: Error saving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap'
+[2022.07.04-08.29.10:358][143]LogFileHelpers: Editor autosave (incl. sublevels) failed for file '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' which belongs to world '/Game/Levels/test'. Aborting autosave.
+[2022.07.04-08.30.52:602][457]LogSlate: Window 'Message Log' being destroyed
+[2022.07.04-08.30.52:609][457]LogSlate: Window 'Message Log' being destroyed
+[2022.07.04-08.33.22:170][661]LogEditorTransaction: Undo Move Node
+[2022.07.04-08.34.02:863][670]LogSavePackage: Moving output files for package: /Game/Spkrs/BP/SpeakerLogic_BP
+[2022.07.04-08.34.02:864][670]LogSavePackage: Moving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/SpeakerLogic_BPC502D1CF4F2E26C2A73F439CB3A63FD4.tmp' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Content/Spkrs/BP/SpeakerLogic_BP.uasset'
+[2022.07.04-08.34.02:880][670]AssetCheck: New page: Asset Save: SpeakerLogic_BP
+[2022.07.04-08.34.02:880][670]LogContentValidation: Display: Validating Blueprint /Game/Spkrs/BP/SpeakerLogic_BP.SpeakerLogic_BP
+[2022.07.04-08.34.19:016][847]BlueprintLog: New page: Compile SpeakerLogic_BP
+[2022.07.04-08.34.19:109][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.07.04-08.34.20:456][893]LogSavePackage: Moving output files for package: /Game/Spkrs/BP/SpeakerLogic_BP
+[2022.07.04-08.34.20:457][893]LogSavePackage: Moving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/SpeakerLogic_BP5EA0E7E44B209D944AD35795A9655819.tmp' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Content/Spkrs/BP/SpeakerLogic_BP.uasset'
+[2022.07.04-08.34.20:470][893]AssetCheck: New page: Asset Save: SpeakerLogic_BP
+[2022.07.04-08.34.20:470][893]LogContentValidation: Display: Validating Blueprint /Game/Spkrs/BP/SpeakerLogic_BP.SpeakerLogic_BP
+[2022.07.04-08.36.50:756][294]LogMaterial: Display: Missing cached shadermap for Woofer_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 49C35618F1DE54A48924682D27A9E81780C46A2C), compiling. 
+[2022.07.04-08.36.52:724][370]LogShaderCompilers: Display: ================================================
+[2022.07.04-08.36.52:724][370]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.07.04-08.36.52:724][370]LogShaderCompilers: Display: Total job queries 263, among them cache hits 68 (25.86%)
+[2022.07.04-08.36.52:724][370]LogShaderCompilers: Display: Tracking 160 distinct input hashes that result in 43 distinct outputs (26.88%)
+[2022.07.04-08.36.52:725][370]LogShaderCompilers: Display: RAM used: 0.12 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2022.07.04-08.36.52:725][370]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.07.04-08.36.52:725][370]LogShaderCompilers: Display: Shaders Compiled: 149
+[2022.07.04-08.36.52:725][370]LogShaderCompilers: Display: Jobs assigned 175, completed 160 (91.43%)
+[2022.07.04-08.36.52:725][370]LogShaderCompilers: Display: Average time worker was idle: 1019.57 s
+[2022.07.04-08.36.52:725][370]LogShaderCompilers: Display: Time job spent in pending queue: average 0.98 s, longest 8.24 s
+[2022.07.04-08.36.52:725][370]LogShaderCompilers: Display: Job execution time: average 2.98 s, max 7.49 s
+[2022.07.04-08.36.52:725][370]LogShaderCompilers: Display: Job life time (pending + execution): average 4.05 s, max 9.56
+[2022.07.04-08.36.52:725][370]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 48.72 s
+[2022.07.04-08.36.52:725][370]LogShaderCompilers: Display: Jobs were issued in 104 batches (only local compilation was used), average 1.68 jobs/batch
+[2022.07.04-08.36.52:725][370]LogShaderCompilers: Display: Average processing rate: 3.28 jobs/sec
+[2022.07.04-08.36.52:725][370]LogShaderCompilers: Display: Effective parallelization: 2.77 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2022.07.04-08.36.52:725][370]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.07.04-08.36.52:725][370]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    3 times, average 1.09 sec, max 1.26 sec, min 0.96 sec)
+[2022.07.04-08.36.52:725][370]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    7 times, average 1.01 sec, max 1.28 sec, min 0.84 sec)
+[2022.07.04-08.36.52:725][370]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    7 times, average 0.99 sec, max 1.06 sec, min 0.91 sec)
+[2022.07.04-08.36.52:725][370]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    3 times, average 0.97 sec, max 1.17 sec, min 0.85 sec)
+[2022.07.04-08.36.52:725][370]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    7 times, average 0.96 sec, max 1.12 sec, min 0.80 sec)
+[2022.07.04-08.36.52:725][370]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.07.04-08.36.52:725][370]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.43% of total time (compiled   17 times, average 0.83 sec, max 0.98 sec, min 0.64 sec)
+[2022.07.04-08.36.52:725][370]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.97% of total time (compiled   17 times, average 0.71 sec, max 1.01 sec, min 0.56 sec)
+[2022.07.04-08.36.52:725][370]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 5.63% of total time (compiled    8 times, average 0.95 sec, max 1.09 sec, min 0.81 sec)
+[2022.07.04-08.36.52:725][370]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 5.24% of total time (compiled    7 times, average 1.01 sec, max 1.28 sec, min 0.84 sec)
+[2022.07.04-08.36.52:725][370]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.15% of total time (compiled    7 times, average 0.99 sec, max 1.06 sec, min 0.91 sec)
+[2022.07.04-08.36.52:725][370]LogShaderCompilers: Display: ================================================
+[2022.07.04-08.37.00:645][817]LogMaterial: Display: Missing cached shadermap for WhtCp_Twt in PCD3D_SM5, Default, SM5 (DDC key hash: 068162930E735D44BB8725A7F0FFAFCB21CE2C24), compiling. 
+[2022.07.04-08.37.00:673][817]LogTexture: Display: Building textures: /Game/Spkrs/m/t/WhtCp/WhtCp_Twt_C.WhtCp_Twt_C (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.07.04-08.37.00:759][820]LogTexture: Display: Building textures: /Game/Spkrs/m/t/WhtCp/WhtCp_Twt_RMA.WhtCp_Twt_RMA (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.07.04-08.37.01:069][832]LogTexture: Display: Building textures: /Game/Spkrs/m/t/WhtCp/WhtCp_Twt_N.WhtCp_Twt_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.07.04-08.37.17:053][865]LogMaterial: Display: Missing cached shadermap for WhtCp_Ft in PCD3D_SM5, Default, SM5 (DDC key hash: B0ACD52309A81C94E80590146E17ED0D13AAFF83), compiling. 
+[2022.07.04-08.37.17:081][865]LogTexture: Display: Building textures: /Game/Spkrs/m/t/WhtCp/WhtCp_Ft_C.WhtCp_Ft_C (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.07.04-08.37.17:149][868]LogTexture: Display: Building textures: /Game/Spkrs/m/t/WhtCp/WhtCp_Ft_RMA.WhtCp_Ft_RMA (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.07.04-08.37.17:170][869]LogTexture: Display: Building textures: /Game/Spkrs/m/t/WhtCp/WhtCp_Ft_N.WhtCp_Ft_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.07.04-08.37.31:860][831]LogMaterial: Display: Missing cached shadermap for TkBlk_Twt in PCD3D_SM5, Default, SM5 (DDC key hash: 800FAC68A62BCC26ED33B1764EAB96F57ABFFBF5), compiling. 
+[2022.07.04-08.37.31:893][831]LogTexture: Display: Building textures: /Game/Spkrs/m/t/TkBlk/TkBlk_Twt_N.TkBlk_Twt_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.07.04-08.37.31:893][831]LogTexture: Display: Building textures: /Game/Spkrs/m/t/TkBlk/TkBlk_Twt_C.TkBlk_Twt_C (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.07.04-08.37.31:988][835]LogTexture: Display: Building textures: /Game/Spkrs/m/t/TkBlk/TkBlk_Twt_RMA.TkBlk_Twt_RMA (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.07.04-08.39.04:566][210]BlueprintLog: New page: Compile SpeakerLogic_BP
+[2022.07.04-08.39.04:649][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.07.04-08.39.05:637][251]LogSavePackage: Moving output files for package: /Game/Spkrs/BP/SpeakerLogic_BP
+[2022.07.04-08.39.05:638][251]LogSavePackage: Moving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/SpeakerLogic_BP00D0080342F6CCF43D7636967DC59C45.tmp' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Content/Spkrs/BP/SpeakerLogic_BP.uasset'
+[2022.07.04-08.39.05:655][251]AssetCheck: New page: Asset Save: SpeakerLogic_BP
+[2022.07.04-08.39.05:655][251]LogContentValidation: Display: Validating Blueprint /Game/Spkrs/BP/SpeakerLogic_BP.SpeakerLogic_BP
+[2022.07.04-08.39.10:944][457]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.07.04-08.39.10:967][457]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/test_Auto2
+[2022.07.04-08.39.10:967][457]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto20A722C1E433FD66D9875E3B02BD80C19.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-08.39.11:468][457]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto20A722C1E433FD66D9875E3B02BD80C19.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-08.39.11:969][457]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto20A722C1E433FD66D9875E3B02BD80C19.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-08.39.12:470][457]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto20A722C1E433FD66D9875E3B02BD80C19.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-08.39.12:971][457]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto20A722C1E433FD66D9875E3B02BD80C19.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-08.39.13:472][457]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto20A722C1E433FD66D9875E3B02BD80C19.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-08.39.13:973][457]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto20A722C1E433FD66D9875E3B02BD80C19.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-08.39.14:474][457]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto20A722C1E433FD66D9875E3B02BD80C19.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-08.39.14:975][457]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto20A722C1E433FD66D9875E3B02BD80C19.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-08.39.15:476][457]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto20A722C1E433FD66D9875E3B02BD80C19.tmp' (Error Code 32), retrying in .5s...
+[2022.07.04-08.39.15:977][457]LogFileManager: Error: Error moving file '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/test_Auto20A722C1E433FD66D9875E3B02BD80C19.tmp'.
+[2022.07.04-08.39.15:977][457]LogSavePackage: Warning: Failed to move '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' to temp directory
+[2022.07.04-08.39.15:977][457]LogSavePackage: Error: Error saving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap'
+[2022.07.04-08.39.15:981][457]EditorErrors: New page: Save Output
+[2022.07.04-08.39.15:982][457]EditorErrors: Warning: Error saving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap'
+[2022.07.04-08.39.16:062][457]LogFileHelpers: Editor autosave (incl. sublevels) failed for file '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/Autosaves/Game/Levels/test_Auto2.umap' which belongs to world '/Game/Levels/test'. Aborting autosave.
+[2022.07.04-08.39.29:263][527]LogSlate: Window 'Message Log' being destroyed
+[2022.07.04-08.39.29:268][527]LogSlate: Window 'Message Log' being destroyed
+[2022.07.04-08.46.09:371][492]LogSavePackage: Moving output files for package: /Game/Spkrs/BP/SpeakerBP
+[2022.07.04-08.46.09:371][492]LogSavePackage: Moving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/SpeakerBP9084B8694A4F841F86E71CB505E430AC.tmp' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Content/Spkrs/BP/SpeakerBP.uasset'
+[2022.07.04-08.46.09:391][492]AssetCheck: New page: Asset Save: SpeakerBP
+[2022.07.04-08.46.09:391][492]LogContentValidation: Display: Validating Blueprint /Game/Spkrs/BP/SpeakerBP.SpeakerBP
+[2022.07.04-08.47.29:957][262]BlueprintLog: New page: Compile SpeakerBP
+[2022.07.04-08.47.30:095][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.07.04-08.47.35:048][310]LogSavePackage: Moving output files for package: /Game/Spkrs/BP/SpeakerBP
+[2022.07.04-08.47.35:048][310]LogSavePackage: Moving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/SpeakerBPB3E40ACE4E3856543DA0A0BA7BFE5FDE.tmp' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Content/Spkrs/BP/SpeakerBP.uasset'
+[2022.07.04-08.47.35:067][310]AssetCheck: New page: Asset Save: SpeakerBP
+[2022.07.04-08.47.35:067][310]LogContentValidation: Display: Validating Blueprint /Game/Spkrs/BP/SpeakerBP.SpeakerBP
+[2022.07.04-08.47.37:740][458]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.04-08.47.37:746][458]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.04-08.47.37:746][458]PIE: New page: PIE session: test (2022/07/05 2:47:37)
+[2022.07.04-08.47.37:746][458]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_test
+[2022.07.04-08.47.37:752][458]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005836s)
+[2022.07.04-08.47.37:752][458]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/test.test to /Game/Levels/UEDPIE_0_test.test (0.005926s)
+[2022.07.04-08.47.37:752][458]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.04-08.47.37:752][458]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.04-08.47.37:753][458]LogAIModule: Creating AISystem for world test
+[2022.07.04-08.47.37:753][458]LogPlayLevel: PIE: World Init took: (0.000865s)
+[2022.07.04-08.47.37:796][458]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.07.04-08.47.37:799][458]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2022.07.04-08.47.37:799][458]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.04-08.47.37:799][458]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.04-08.47.37:799][458]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.04-08.47.37:799][458]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.04-08.47.37:799][458]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.04-08.47.37:799][458]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.04-08.47.37:799][458]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.04-08.47.37:799][458]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.04-08.47.37:799][458]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.04-08.47.37:799][458]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.04-08.47.37:799][458]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.04-08.47.37:801][458]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.04-08.47.37:831][458]LogAudioMixer: Display: Using Audio Hardware Device スピーカー (2- Realtek High Definition Audio)
+[2022.07.04-08.47.37:831][458]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.04-08.47.37:831][458]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.04-08.47.37:831][458]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.04-08.47.37:833][458]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2022.07.04-08.47.37:833][458]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2022.07.04-08.47.37:834][458]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2022.07.04-08.47.37:834][458]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2022.07.04-08.47.37:834][458]LogInit: FAudioDevice initialized.
+[2022.07.04-08.47.37:834][458]LogAudio: Display: Audio Device (ID: 24) registered with world 'test'.
+[2022.07.04-08.47.37:842][458]LogLoad: Game class is 'GM_Configurator_C'
+[2022.07.04-08.47.37:845][458]LogWorld: Bringing World /Game/Levels/UEDPIE_0_test.test up for play (max tick rate 0) at 2022.07.04-17.47.37
+[2022.07.04-08.47.37:845][458]LogWorld: Bringing up level for play took: 0.002644
+[2022.07.04-08.47.37:847][458]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2022.07.04-08.47.37:848][458]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.07.04-08.47.37:848][458]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.07.04-08.47.37:848][458]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.07.04-08.47.37:849][458]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.07.04-08.47.37:849][458]PIE: Server logged in
+[2022.07.04-08.47.37:850][458]PIE: Play in editor total start time 0.104 seconds.
+[2022.07.04-08.48.09:386][454]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.04-08.48.09:386][454]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_test
+[2022.07.04-08.48.09:386][454]LogWorld: UWorld::CleanupWorld for test, bSessionEnded=true, bCleanupResources=true
+[2022.07.04-08.48.09:387][454]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.04-08.48.09:405][454]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.04-08.48.09:409][454]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.04-08.48.09:450][454]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.04-08.48.09:451][454]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2022.07.04-08.48.09:452][454]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2022.07.04-08.48.09:456][454]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.04-08.48.09:460][454]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.07.04-08.48.09:523][455]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2022.07.04-08.48.37:272][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.07.04-08.48.37:294][897]LogSavePackage: Moving output files for package: /Game/Levels/test
+[2022.07.04-08.48.37:295][897]LogSavePackage: Moving '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Saved/testFC7645CD4C4171D2A2AC91ACCCAE07D3.tmp' to '../../../../../../Users/YoutaTakahara/Documents/Modules 10-17_project files/Section2_Part1_Project/Section2_Project 5.0/Content/Levels/test.umap'
+[2022.07.04-08.48.37:309][897]LogFileHelpers: No new changes to save!
+[2022.07.04-08.48.37:309][897]LogFileHelpers: Saving map 'test' took 0.094
+[2022.07.04-08.48.37:323][897]AssetCheck: New page: Asset Save: test
+[2022.07.04-08.48.37:323][897]LogContentValidation: Display: Validating World /Game/Levels/test.test
